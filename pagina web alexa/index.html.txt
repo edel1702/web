@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>galeria fotografica de alexa</title>
+</head>
+<body>
+<img src="img/alea1.jpeg" width="200" height="200">
+<img src="img/alexa2.jpeg" width="200" height="200">
+<img src="img/alexa3.jpeg" width="200" height="200">
+<img src="img/alexa4.jpeg" width="200" height="200">
+<img src="img/alexa5.jpeg" width="200" height="200">
+<img src="img/alexa6.jpeg" width="200" height="200">
+</body>
+</html>
